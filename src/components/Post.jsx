@@ -23,7 +23,7 @@ class ClassPost extends React.Component {
   }
 }
 
-const FunctionPost = (props) => {
+const TestPost = (props) => {
   const [name, setName] = useState('')
 
   const handleClick = () => {
